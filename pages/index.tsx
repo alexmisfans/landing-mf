@@ -10,6 +10,7 @@ const Home: NextPage = () => {
   return (
     <div className="overflow-hidden h-screen">
       <HeroSection/>
+      <FeaturesTable/>
     </div>
   )
 }
